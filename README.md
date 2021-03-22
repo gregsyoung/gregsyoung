@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gregsyoung
 - 👀 I’m interested in home automation, boat automation and telemetry.
 - 🌱 I’m currently learning github, arduino, platform IO, node-red
-- 💞️ I’m looking to collaborate on projects that i can modify or adopt to mybsituation.
+- 💞️ I’m looking to collaborate on projects that i can modify or adopt to my use cases.
 - 📫 How to reach me greg.s.young@Gmail.com
 
 <!---
